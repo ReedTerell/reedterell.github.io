@@ -23,7 +23,7 @@ Name: Dr. Jeremy A. Magruder Waisome
 School: University of Florida
 Department: Department of Engineering Education
 Area of Research: Engineering Education
-Website: Mentor's Website
+Website: [Mentor's Website](https://www.jeremywaisome.com/)
 
 ## About My Project
 
