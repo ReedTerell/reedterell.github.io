@@ -9,7 +9,7 @@ title: Summer 2020 DREU Project Site
 ## About Me
 
 
-Currently, I am a sophomore student at Morgan State University, located in Baltimore, Maryland. I am pursuing a Bachelor's degree in Computer Science within the Department of Computer Science. My expected graduation date is in 2026.
+Currently, I am a sophomore student at Morgan State University, located in Baltimore, Maryland. I am pursuing a Bachelor's degree in Computer Science. My expected graduation date is in 2026.
 
 [LinkedIn Profile](https://www.linkedin.com/in/terell-reed-140377263/)
 
@@ -21,13 +21,11 @@ My mentor, Dr. Jeremy Waisome from the University of Florida, is a researcher sp
 
 ## About My Project
 
-During the program, I will be supporting two projects in the PRISEM research lab under the guidance of Dr. Jeremy A. Magruder Waisome.
-
 Shark AI Project:
-Description: Develop a machine-learning model to identify the species and morphology of fossil shark teeth using a dataset from the Florida Museum of Natural History. Co-supervised by Dr. Christan Grant and his graduate student. Sponsored by the National Science Foundation (NSF) Innovative Technology Experiences for Students and Teachers (ITEST) program.
+Developing a machine-learning model to identify the species and morphology of fossil shark teeth using a dataset from the Florida Museum of Natural History. 
 
 MR for Semiconductor Fab Labs:
-Description: Conduct a literature review and develop an augmented reality mobile application related to micro and nano-fabrication. Supervised by Dennis Parnell, Jr., with collaboration opportunities with the US Naval Academy and Purdue University if funded by NSF under the Research on Emerging Technologies for Teaching and Learning (RETTL) program.
+Developing an augmented reality mobile application related to micro and nano-fabrication. 
 
 [My Final Report](files/finalreport.pdf)
 
