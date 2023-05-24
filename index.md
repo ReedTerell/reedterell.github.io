@@ -8,33 +8,16 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-Name: Terell Reed
 
-School: Morgan State University
+Currently, I am a sophomore student at Morgan State University, located in Baltimore, Maryland. I am pursuing a Bachelor's degree in Computer Science within the Department of Computer Science. My expected graduation date is in 2026.
 
-Department: Computer Science
-
-Grade Level: Sophomore
-
-Major: Computer Science
-
-Expected Graduation: 2026
-
-Email: teree2@morgan.edu
-
-Website: [LinkedIn Profile](https://www.linkedin.com/in/terell-reed-140377263/)
+[LinkedIn Profile](https://www.linkedin.com/in/terell-reed-140377263/)
 
 ## About My Mentor
 
-Name: Dr. Jeremy A. Magruder Waisome
+My mentor, Dr. Jeremy Waisome from the University of Florida, is a researcher specializing in machine learning models and algorithms inspired by ecological problems and datasets. Her work aligns with the computational sustainability community, where she explores how computer science can contribute to the promotion of Earth's ecosystem health and focuses on the development of augmented reality and its applications in micro and nano-fabrication processes with a focus to enhance technologies for teaching, learning, and advancements in the field.
 
-School: University of Florida
-
-Department: Department of Engineering Education
-
-Area of Research: Engineering Education
-
-Website: [Mentor's Website](https://www.jeremywaisome.com/)
+[Mentor's Website](https://www.jeremywaisome.com/)
 
 ## About My Project
 
