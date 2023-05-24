@@ -9,13 +9,14 @@ title: Summer 2020 DREU Project Site
 ## About Me
 
 Name: Terell Reed
+
 School: Morgan State University
 Department: Computer Science
 Grade Level: Sophomore
 Major: Computer Science
 Expected Graduation: 2026
 Email: teree2@morgan.edu
-Website: LinkedIn Profile
+Website: [LinkedIn Profile](https://www.linkedin.com/in/terell-reed-140377263/)
 
 ## About My Mentor
 
