@@ -11,19 +11,29 @@ title: Summer 2020 DREU Project Site
 Name: Terell Reed
 
 School: Morgan State University
+
 Department: Computer Science
+
 Grade Level: Sophomore
+
 Major: Computer Science
+
 Expected Graduation: 2026
+
 Email: teree2@morgan.edu
+
 Website: [LinkedIn Profile](https://www.linkedin.com/in/terell-reed-140377263/)
 
 ## About My Mentor
 
 Name: Dr. Jeremy A. Magruder Waisome
+
 School: University of Florida
+
 Department: Department of Engineering Education
+
 Area of Research: Engineering Education
+
 Website: [Mentor's Website](https://www.jeremywaisome.com/)
 
 ## About My Project
