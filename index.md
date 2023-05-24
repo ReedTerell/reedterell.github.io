@@ -31,6 +31,7 @@ During the program, I will be supporting two projects in the PRISEM research lab
 
 Shark AI Project:
 Description: Develop a machine-learning model to identify the species and morphology of fossil shark teeth using a dataset from the Florida Museum of Natural History. Co-supervised by Dr. Christan Grant and his graduate student. Sponsored by the National Science Foundation (NSF) Innovative Technology Experiences for Students and Teachers (ITEST) program.
+
 MR for Semiconductor Fab Labs:
 Description: Conduct a literature review and develop an augmented reality mobile application related to micro and nano-fabrication. Supervised by Dennis Parnell, Jr., with collaboration opportunities with the US Naval Academy and Purdue University if funded by NSF under the Research on Emerging Technologies for Teaching and Learning (RETTL) program.
 
