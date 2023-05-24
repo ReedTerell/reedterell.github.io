@@ -22,9 +22,11 @@ My mentor, Dr. Jeremy Waisome from the University of Florida, is a researcher sp
 ## About My Project
 
 Shark AI Project:
+
 Developing a machine-learning model to identify the species and morphology of fossil shark teeth using a dataset from the Florida Museum of Natural History. 
 
 MR for Semiconductor Fab Labs:
+
 Developing an augmented reality mobile application related to micro and nano-fabrication. 
 
 [My Final Report](files/finalreport.pdf)
