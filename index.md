@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: Terell Reed's Summer 2023 DREU Project Site
 ---
 
 * TOC
