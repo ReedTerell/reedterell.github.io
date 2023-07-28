@@ -21,14 +21,9 @@ My mentor, Dr. Jeremy Waisome from the University of Florida, is a researcher sp
 
 ## About My Project
 
-Shark AI Project:
-
-Developing a machine-learning model to identify the species and morphology of fossil shark teeth using a dataset from the Florida Museum of Natural History. 
-
 MR for Semiconductor Fab Labs:
 
-Developing an augmented reality mobile application related to micro and nano-fabrication. 
-
+Augmented reality (AR) application that has been specially designed to cater to students aspiring to enter the semiconductor manufacturing industry. Its primary focus is on enhancing the comprehension of photolithography processes, a crucial aspect of semiconductor fabrication. One of the significant obstacles faced by students in this field is the financial constraints associated with gaining access to cleanrooms and using expensive equipment. To address this challenge, the application provides an immersive and affordable alternative by creating a virtual environment for learning and practicing these processes. Through the use of AR technology, the application offers an interactive and hands-on learning experience, allowing students to visualize and interact with photolithography processes step-by-step. 
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
